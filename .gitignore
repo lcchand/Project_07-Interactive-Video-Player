@@ -1,0 +1,23 @@
+# Ignore Subfolder   #
+######################
+examples/*
+js/Old-Code/*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Emacs generated file #
+########################
+*~
+*#
+
+
+# Sass generated files #
+########################
+.sass-cache
+.css.map
